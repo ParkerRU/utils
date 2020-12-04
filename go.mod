@@ -1,3 +1,3 @@
-module github.com/ParkerRU/utils/v2
+module github.com/ParkerRU/utils/v3
 
 go 1.15
